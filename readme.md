@@ -1,0 +1,2 @@
+- Included the programs inside the src/ and wrote the output answer as comment to the console log statement
+- You can run the scripts in package.json using npm or pnpm
